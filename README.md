@@ -2,7 +2,7 @@
 ____
 ## Установка
 ```
-    https://github.com/polinep72/DS.git
+    [https://github.com/polinep72/DS.git](https://github.com/polinep72/DS.git)
 ```
 ____
 ## Языки программирования
