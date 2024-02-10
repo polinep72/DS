@@ -2,7 +2,7 @@
 ____
 ## Установка
 ```
-    https://github.com/SoLoro/Employee-Income-Formula-DataScience.git
+    https://github.com/polinep72/DS.git
 ```
 ____
 ## Языки программирования
