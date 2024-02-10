@@ -28,8 +28,7 @@ ____
 ____
 ## Решение 
 ```
-    Разработка файла проводилась на ресурсе Google Colab: https://colab.research.google.com/drive/101-g4ChQefZT48329KvjJIqqM0ad9EC-#scrollTo=pJRFjS7pR0Sm&uniqifier=5
-    Formula.ipynb
+        Formula.ipynb
 ```
 ____
 ## Полученная формула 
@@ -41,3 +40,9 @@ ____
 -	Кр : коэффициент разряда, 
 -	Квр : коэффициент вредности
 -	kин : коэффициент индивидуальной надбавки
+
+____
+## Ресурсы
+```
+    Разработка файла проводилась на ресурсе Google Colab: https://colab.research.google.com/drive/101-g4ChQefZT48329KvjJIqqM0ad9EC-#scrollTo=pJRFjS7pR0Sm&uniqifier=5
+```
