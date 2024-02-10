@@ -28,6 +28,7 @@ ____
 ____
 ## Решение 
 ```
+    Разработка файла проводилась на ресурсе Google Colab: https://colab.research.google.com/drive/101-g4ChQefZT48329KvjJIqqM0ad9EC-#scrollTo=pJRFjS7pR0Sm&uniqifier=5
     Formula.ipynb
 ```
 ____
