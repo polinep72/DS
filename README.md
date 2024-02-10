@@ -1,6 +1,6 @@
 Задача нахождения дохода и его составных частей работников предприятия
 Установка
-    https://github.com/SoLoro/Employee-Income-Formula-DataScience.git
+    https://github.com/polinep72/DS/FORMULA.git
 Языки программирования
 Python
 
